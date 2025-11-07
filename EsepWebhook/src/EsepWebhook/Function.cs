@@ -1,7 +1,7 @@
 using System.Text;
 using Amazon.Lambda.Core;
 using Newtonsoft.Json;
-using Amazon.Lambda.APIGatewayEvents
+using Amazon.Lambda.APIGatewayEvents;
 
 
 namespace EsepWebhook;
